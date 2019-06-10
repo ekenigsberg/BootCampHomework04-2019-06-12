@@ -1,5 +1,5 @@
 # BootCampHomework04-2019-06-12
-Solution to [Data Analytics Boot Camp Homework #4](https://github.com/the-Coding-Boot-Camp-at-UT/UTAMCB201904DATA3/tree/master/04-Pandas/Homework/Instructions)
+[Jupyter Notebook Solution](https://github.com/ekenigsberg/BootCampHomework04-2019-06-12/blob/master/PyCitySchools.ipynb) to [Data Analytics Boot Camp Homework #4](https://github.com/the-Coding-Boot-Camp-at-UT/UTAMCB201904DATA3/tree/master/04-Pandas/Homework/Instructions)
 # PyCity Schools Analysis
 
 * Two clear trends appear in the data:
@@ -11,8 +11,6 @@ Solution to [Data Analytics Boot Camp Homework #4](https://github.com/the-Coding
 * One argument against directly attributing better scores to school size: the charter schools' better scores do not vary by school size. The district schools' scores vary little by school size as well.
   
 * The next challenge is to determine whether there is a systematic difference in the composition of the charter school student population versus the district school student population.
-
-[Jupyter Notebook Solution](https://github.com/ekenigsberg/BootCampHomework04-2019-06-12/blob/master/PyCitySchools.ipynb)
 
 Two observations:
 * Squashing the SettingWithCopyWarning issue was tricky. I most benefited from

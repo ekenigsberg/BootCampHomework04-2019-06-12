@@ -12,7 +12,7 @@ Solution to [Data Analytics Boot Camp Homework #4](https://github.com/the-Coding
   
 * The next challenge is to determine whether there is a systematic difference in the composition of the charter school student population versus the district school student population.
 
-[Jupyter Notebook](https://github.com/ekenigsberg/BootCampHomework04-2019-06-12/blob/master/PyCitySchools.ipynb)
+[Jupyter Notebook Solution](https://github.com/ekenigsberg/BootCampHomework04-2019-06-12/blob/master/PyCitySchools.ipynb)
 
 Two observations:
 * Squashing the SettingWithCopyWarning issue was tricky. I most benefited from

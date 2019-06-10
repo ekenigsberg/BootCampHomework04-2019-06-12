@@ -1,5 +1,7 @@
 # BootCampHomework04-2019-06-12
-[Jupyter Notebook Solution](https://github.com/ekenigsberg/BootCampHomework04-2019-06-12/blob/master/PyCitySchools.ipynb) to [Data Analytics Boot Camp Homework #4](https://github.com/the-Coding-Boot-Camp-at-UT/UTAMCB201904DATA3/tree/master/04-Pandas/Homework/Instructions)
+[Jupyter Notebook Solution](https://github.com/ekenigsberg/BootCampHomework04-2019-06-12/blob/master/PyCitySchools.ipynb)<br/>
+to<br/>
+[Data Analytics Boot Camp Homework #4](https://github.com/the-Coding-Boot-Camp-at-UT/UTAMCB201904DATA3/tree/master/04-Pandas/Homework/Instructions)
 # PyCity Schools Analysis
 
 * Two clear trends appear in the data:
